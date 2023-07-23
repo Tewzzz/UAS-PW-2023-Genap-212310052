@@ -1,0 +1,23 @@
+.text-color{
+    color: #808080;
+}
+.text-green{
+    color: #04450B;
+}
+.text-black{
+    color:#000000;
+}
+.btn{
+    margin-top: 20px;
+}
+.btn-lg-primary{
+    background-color: #04450B;
+    color: #fff;
+    width: 200px;
+    height: 52px;
+    border-radius: 15px;
+}
+.btn-lg-primary:hover{
+    background-color: #04450B;
+    opacity: 50%;
+}
